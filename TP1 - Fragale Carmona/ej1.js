@@ -1,5 +1,5 @@
 
 
-var x = "pepito";
+const x = "pepito";
 
 console.log(x);

@@ -1,6 +1,6 @@
 
 
-var juan = '33';
+const juan = '33';
 
 function john (juan){
     if(juan % 2 === 0) {
@@ -9,6 +9,7 @@ function john (juan){
         console.log('El numero es impar');
     }
 }
+
 
 console.log(john(juan));
 
